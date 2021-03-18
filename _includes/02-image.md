@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of minimalist workplace] (https://www.pexels.com/photo/beige-and-black-chair-in-front-of-white-desk-509922/)
