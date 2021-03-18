@@ -1,1 +1,1 @@
-![Image of minimalist workplace] (https://www.pexels.com/photo/beige-and-black-chair-in-front-of-white-desk-509922/)
+![Image of minimalist workplace] (https://images.pexels.com/photos/509922/pexels-photo-509922.jpeg)
